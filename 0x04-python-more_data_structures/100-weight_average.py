@@ -28,4 +28,3 @@ def roman_to_int(roman_string):
             output += roman_numerals[character]
 
     return output
-
